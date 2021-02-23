@@ -1,6 +1,8 @@
 <?php
 $idade = 20;
 
-echo 'ola mundo minha idade é ' . $idade . ' anos';
+echo "ola mundo\n";
+echo "Eu tenho $idade anos" . PHP_EOL;
 
-echo "ola mundo minha idade é $idade anos";
+echo "Ola" . PHP_EOL;
+echo "tenho $idade anos";
